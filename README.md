@@ -4,6 +4,7 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![LaTeX](https://img.shields.io/badge/language-LaTeX-orange.svg)
+![ATS Verified](https://img.shields.io/badge/ATS-Verified-success)
 
 This template is based on "Sourabh Bajaj's" overleaf template but refactored for easier customization and strict & modern ATS (Applicant Tracking System) parsing.
 
