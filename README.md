@@ -8,6 +8,13 @@
 
 This template is based on "Sourabh Bajaj's" overleaf template but refactored for easier customization and strict & modern ATS (Applicant Tracking System) parsing.
 
+This template has been tested against **[Open Resume](https://www.open-resume.com/)**, a modern, open-source ATS parser.
+
+The validation confirms that **100% of the content**—including contact details, skills, and work history — is extracted correctly and structured properly.
+
+### Proof of Results
+I have included screenshots of the verification process in the [`results/`](./results) directory. You can inspect them to see how the parser "sees" this resume compared to the PDF.
+
 ## Preview
 
 ![Resume Preview](resume-preview.png)
@@ -31,7 +38,7 @@ Ensure you have a TeX distribution installed (TeX Live, MacTeX, or MiKTeX).
 
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/adit0717/sudo-resume.git](https://github.com/adit0717/sudo-resume.git)
+git clone https://github.com/adit0717/sudo-resume.git
 
 # 2. Navigate to directory
 cd sudo-resume
